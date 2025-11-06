@@ -1,5 +1,6 @@
-# EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER
-
+# EXPERIMENT 07 SQUARE WAVE GENERATION AT THE OUTPUT PIN USING TIMER
+### NAME : HARIHARAN J
+### REG NO : 212223240047
 ### Aim:
 To generate a PWM wave at the timer pin output and  simuate it on  proteus using an virtual oscilloscope  
 
